@@ -1,0 +1,11 @@
+# Vim swap/backup files
+*.sw[nop]
+*~
+*.bak
+
+# Generated help tags
+doc/tags
+
+# OS junk
+.DS_Store
+Thumbs.db
